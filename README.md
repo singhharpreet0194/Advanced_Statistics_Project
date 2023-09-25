@@ -38,7 +38,7 @@ A physiotherapist with a male football team is interested in studying the relati
   ### [Problem 2](#problem-2)
   - Estimating the probability of radiation leakage in a nuclear power plant based on different types of accidents.
 
-  <a name="problem-2"></a> Problem 2
+
 
 An independent research organization is trying to estimate the probability that an accident at a nuclear power plant will result in radiation leakage. The types of accidents possible at the plant are, fire hazards, mechanical failure, or human error. The research organization also knows that two or more types of accidents cannot occur simultaneously.
 
@@ -67,7 +67,7 @@ A Human Error.
   ### [Problem 3](#problem-3)
   - Analyzing the breaking strength distribution of gunny bags used for packaging cement.
 
-  <a name="problem-3"></a> Problem 3
+  
 
 The breaking strength of gunny bags used for packaging cement is normally distributed with a mean of 5 kg per sq. centimeter and a standard deviation of 1.5 kg per sq. centimeter. The quality team of the cement company wants to know the following about the packaging material to better understand wastage or pilferage within the supply chain; Answer the questions below based on the given information; (Provide an appropriate visual representation of your answers, without which marks will be deducted)
 
@@ -89,7 +89,7 @@ The breaking strength of gunny bags used for packaging cement is normally distri
   ### [Problem 4](#problem-4)
   - Examining the grades distribution in a training course and determining passing cut-offs.
 
-  <a name="problem-4"></a> Problem 4
+
 
 Grades of the final examination in a training course are found to be normally distributed, with a mean of 77 and a standard deviation of 8.5. Based on the given information answer the questions below.
 
@@ -109,7 +109,7 @@ Grades of the final examination in a training course are found to be normally di
   ### [Problem 5](#problem-5)
   - Assessing the hardness of stones for a printing company.
 
-  <a name="problem-5"></a> Problem 5
+
 
 Zingaro stone printing is a company that specializes in printing images or patterns on polished or unpolished stones. However, for the optimum level of printing of the image the stone surface has to have a Brinell's hardness index of at least 150. Recently, Zingaro has received a batch of polished and unpolished stones from its clients. Use the data provided to answer the following (assuming a 5% significance level);
 
@@ -127,7 +127,7 @@ Zingaro stone printing is a company that specializes in printing images or patte
   ### [Problem 6](#problem-6)
   - Evaluating the success of a body conditioning program in a cross-fit gym.
 
-  <a name="problem-6"></a> Problem 6
+
 
 Aquarius health club, one of the largest and most popular cross-fit gyms in the country has been advertising a rigorous program for body conditioning. The program is considered successful if the candidate is able to do more than 5 push-ups, as compared to when he/she enrolled in the program. Using the sample data provided can you conclude whether the program is successful? (Consider the level of Significance as 5%)
 
@@ -141,7 +141,7 @@ Note that this is a problem of the paired-t-test. Since the claim is that the tr
   ### [Problem 7](#problem-7)
   - Analyzing dental implant data to understand the factors affecting implant hardness.
 
-  <a name="problem-7"></a> Problem 7
+  
 
 
 Dental implant data: The hardness of metal implant in dental cavities depends on multiple factors, such as the method of implant, the temperature at which the metal is treated, the alloy used as well as on the dentists who may favour one method above another and may work better in his/her favourite method. The response is the variable of interest.
