@@ -8,10 +8,8 @@ This repository contains a set of advanced statistics problems covering various 
 <details>
   <summary>Problem 1</summary>
 
-  ### [Problem 1](#problem-1)
+  ### [Problem 1]
   - Investigating the relationship between foot injuries and player positions in a football team.
-
-
 
 A physiotherapist with a male football team is interested in studying the relationship between foot injuries and the positions at which the players play from the data collected
 
