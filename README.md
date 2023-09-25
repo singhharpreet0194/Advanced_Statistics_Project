@@ -167,11 +167,7 @@ Dental implant data: The hardness of metal implant in dental cavities depends on
 
 For the analysis, relevant datasets have been provided. You can find them in the respective links mentioned in the problem descriptions:
 
-- [Dataset for Problem 1](pseudo_link_for_dataset_1)
-- [Dataset for Problem 2](pseudo_link_for_dataset_2)
-- [Dataset for Problem 3](pseudo_link_for_dataset_3)
-- [Dataset for Problem 4](pseudo_link_for_dataset_4)
-- [Dataset for Problem 5](pseudo_link_for_dataset_5)
+- [Dataset for Problem 5](https://github.com/singhharpreet0194/Advanced_Statistics_Project/blob/main/Zingaro_Company.csv)
 - [Dataset for Problem 6](pseudo_link_for_dataset_6)
 - [Dataset for Problem 7](pseudo_link_for_dataset_7)
 
