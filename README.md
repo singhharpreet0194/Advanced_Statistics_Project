@@ -169,6 +169,6 @@ For the analysis, relevant datasets have been provided. You can find them in the
 
 - [Dataset for Problem 5](https://github.com/singhharpreet0194/Advanced_Statistics_Project/blob/main/Zingaro_Company.csv)
 - [Dataset for Problem 6](https://github.com/singhharpreet0194/Advanced_Statistics_Project/blob/main/Aquarius_gym.csv)
-- [Dataset for Problem 7](pseudo_link_for_dataset_7)
+- [Dataset for Problem 7](https://github.com/singhharpreet0194/Advanced_Statistics_Project/blob/main/Dental%20Hardness%20data.xlsx)
 
 ---
