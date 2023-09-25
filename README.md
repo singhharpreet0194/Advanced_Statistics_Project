@@ -1,4 +1,3 @@
-Copy code
 # Advanced Statistics Project
 ---
 
@@ -6,116 +5,89 @@ Copy code
 
 This repository contains a set of advanced statistics problems covering various domains. Each problem is detailed in the corresponding section:
 
-### [Problem 1](#problem-1)
-- Investigating the relationship between foot injuries and player positions in a football team.
+<details>
+  <summary>Problem 1</summary>
 
-### <a name="problem-1"></a> Problem 1
+  ### [Problem 1](#problem-1)
+  - Investigating the relationship between foot injuries and player positions in a football team.
 
-A physiotherapist with a male football team is interested in studying the relationship between foot injuries and the positions at which the players play from the data collected
+  <a name="problem-1"></a> Problem 1
 
- 
+  Problem description goes here...
 
- 
+</details>
 
-Striker
+<details>
+  <summary>Problem 2</summary>
 
-Forward
+  ### [Problem 2](#problem-2)
+  - Estimating the probability of radiation leakage in a nuclear power plant based on different types of accidents.
 
-Attacking Midfielder
+  <a name="problem-2"></a> Problem 2
 
-Winger
+  Problem description goes here...
 
-Total
+</details>
 
-Players Injured
+<details>
+  <summary>Problem 3</summary>
 
-45
+  ### [Problem 3](#problem-3)
+  - Analyzing the breaking strength distribution of gunny bags used for packaging cement.
 
-56
+  <a name="problem-3"></a> Problem 3
 
-24
+  Problem description goes here...
 
-20
+</details>
 
-145
+<details>
+  <summary>Problem 4</summary>
 
-Players Not Injured
+  ### [Problem 4](#problem-4)
+  - Examining the grades distribution in a training course and determining passing cut-offs.
 
-32
+  <a name="problem-4"></a> Problem 4
 
-38
+  Problem description goes here...
 
-11
+</details>
 
-9
+<details>
+  <summary>Problem 5</summary>
 
-90
+  ### [Problem 5](#problem-5)
+  - Assessing the hardness of stones for a printing company.
 
-Total
+  <a name="problem-5"></a> Problem 5
 
-77
+  Problem description goes here...
 
-94
+</details>
 
-35
+<details>
+  <summary>Problem 6</summary>
 
-29
+  ### [Problem 6](#problem-6)
+  - Evaluating the success of a body conditioning program in a cross-fit gym.
 
-235
+  <a name="problem-6"></a> Problem 6
 
- 
+  Problem description goes here...
 
-1.1 What is the probability that a randomly chosen player would suffer an injury?
+</details>
 
-1.2 What is the probability that a player is a forward or a winger?
+<details>
+  <summary>Problem 7</summary>
 
-1.3 What is the probability that a randomly chosen player plays in a striker position and has a foot injury?
+  ### [Problem 7](#problem-7)
+  - Analyzing dental implant data to understand the factors affecting implant hardness.
 
-1.4 What is the probability that a randomly chosen injured player is a striker?
+  <a name="problem-7"></a> Problem 7
 
-1.5 What is the probability that a randomly chosen injured player is either a forward or an attacking midfielder? 
+  Problem description goes here...
 
-### [Problem 2](#problem-2)
-- Estimating the probability of radiation leakage in a nuclear power plant based on different types of accidents.
-
-### <a name="problem-2"></a> Problem 2
-
-Problem description goes here...
-
-### [Problem 3](#problem-3)
-- Analyzing the breaking strength distribution of gunny bags used for packaging cement.
-
-### <a name="problem-3"></a> Problem 3
-
-Problem description goes here...
-
-### [Problem 4](#problem-4)
-- Examining the grades distribution in a training course and determining passing cut-offs.
-
-### <a name="problem-4"></a> Problem 4
-
-Problem description goes here...
-
-### [Problem 5](#problem-5)
-- Assessing the hardness of stones for a printing company.
-
-### <a name="problem-5"></a> Problem 5
-
-Problem description goes here...
-
-### [Problem 6](#problem-6)
-- Evaluating the success of a body conditioning program in a cross-fit gym.
-
-### <a name="problem-6"></a> Problem 6
-
-Problem description goes here...
-
-### [Problem 7](#problem-7)
-- Analyzing dental implant data to understand the factors affecting implant hardness.
-
-### <a name="problem-7"></a> Problem 7
-
-Problem description goes here...
+</details>
 
 ---
 
@@ -130,3 +102,5 @@ For the analysis, relevant datasets have been provided. You can find them in the
 - [Dataset for Problem 5](pseudo_link_for_dataset_5)
 - [Dataset for Problem 6](pseudo_link_for_dataset_6)
 - [Dataset for Problem 7](pseudo_link_for_dataset_7)
+
+---
