@@ -6,9 +6,9 @@
 This repository contains a set of advanced statistics problems covering various domains. Each problem is detailed in the corresponding section:
 
 <details>
-  <summary><b>Problem 1</b></summary>
+  <summary>Problem 1</summary>
 
-
+  ### [Problem 1](#problem-1)
 
   - Investigating the relationship between foot injuries and player positions in a football team.
 
